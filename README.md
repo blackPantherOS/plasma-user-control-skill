@@ -1,4 +1,4 @@
-# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/microchip.svg' card_color='#334166' width='50' height='50' style='vertical-align:bottom'/> Plasma User Control
+# Plasma User Control
 Enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Control Klipper, Control Workspaces, Control Compisitor, Add Widgets on Plasma Desktop.
 
 ## About 
@@ -17,7 +17,7 @@ This skill integrates Plasma 5 Desktop Internals with Mycroft which enables user
 * "Hey Mycroft show clipper"
 * "Hey Mycroft clear clipboard"
 * "Hey Mycroft Add panel to the top/bottom/left/right"
-* "Hey Mycroft Give me information about this system"
+* "Hey Mycroft Give me information about this computer"
 
 ## Credits 
 Aix (@AIIX)
